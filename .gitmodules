@@ -1,0 +1,3 @@
+[submodule "themes/WB_Login/assets"]
+	path = themes/WB_Login/assets
+	url = https://github.com/WilliamBargentLimited/Responsive-Sign-in.git
